@@ -1,0 +1,3 @@
+/home/jonathan/modding/szsTest/build/CMakeFiles/szsTest.dir
+/home/jonathan/modding/szsTest/build/CMakeFiles/edit_cache.dir
+/home/jonathan/modding/szsTest/build/CMakeFiles/rebuild_cache.dir

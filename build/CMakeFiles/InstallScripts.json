@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jonathan/modding/szsTest/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

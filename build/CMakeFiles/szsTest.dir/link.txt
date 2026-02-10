@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/szsTest.dir/link.d CMakeFiles/szsTest.dir/src/main.cpp.o CMakeFiles/szsTest.dir/src/szsDecode.cpp.o CMakeFiles/szsTest.dir/src/sarcReader.cpp.o -o szsTest  -lstdc++fs
