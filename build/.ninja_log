@@ -1,5 +1,0 @@
-# ninja log v6
-1	87	1770716297788044292	CMakeFiles/szsTest.dir/src/szsDecode.cpp.o	194023732d92d86d
-1	442	1770716297789370086	CMakeFiles/szsTest.dir/src/sarcReader.cpp.o	61a06cca43031ff7
-0	874	1770716297787043884	CMakeFiles/szsTest.dir/src/main.cpp.o	4c80f31cd475ca0b
-875	981	1770716298663353398	szsTest	ea2835117c8544d8
